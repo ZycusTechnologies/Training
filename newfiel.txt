@@ -1,2 +1,4 @@
+added another line
 new line to the new file
 i added a new comment
+added fourht line as well
