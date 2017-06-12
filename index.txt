@@ -2,3 +2,4 @@ pwd
 ls
 git commit
 new line adding 
+rebase changes
