@@ -1,2 +1,2 @@
 new line to the new file
-i added a new line
+i added a new comment
